@@ -51,10 +51,13 @@ c. Ecrire dans la fonction main un code qui teste chacune des 4 fonctions avec d
 
 a. Lire l'input de l'utilisateur en plaçant le contenu dans une chaine de caractères. Afficher la chaine dans le terminal pour vérifier que la lecture s'est bien réalisée.
 
-b. Ecrire une fonction qui prend en entrée un chaine de caractères et qui retourne une structure contenant les deux opérandes et l'opérateur ou une erreur si la chaine de caractères de correspond pas à une opération. 
-	b.1. Ecrire d'abord une structure contenant deux *float* pour les opérandes et un *enum* pour le type d'opération.
-	b.2. Ecrire la première partie de la fonction qui va accéder à chaque caractère du début jusqu'à la fin et qui va découper la chaine OPERANDE OPERATEUR OPERANDE. Les espaces sont ignorés. Si le caractère n'est pas celui attendu alors renvoyer une erreur. Une chaine de caractères "String" encapsule un tableau de caractères qui sont accessibles un à un via la fonction "*charAt(int index)*".
-	b.3. A partir des 3 sous-chaines de caractères, transformer les deux opérandes en deux flottants et l'opérateur en *enum*.
-	b.4. Instancier la structure en b.1 et placer dedans les deux opérandes ainsi de l'opérateur. Retourner la structure.
+b. Ecrire une fonction ***compute*** qui prend en entrée un chaine de caractères et qui retourne le résultat de l'opération c'est à dire un entier.
+	b.1. Ecrire la première partie de la fonction qui va accéder à chaque caractère et qui va découper la chaine OPERANDE OPERATEUR OPERANDE. OPERANDE est un entier constitué d'un ou plusieurs chiffres. OPERATEUR peut être "+", "-", "/", "\*". 
+
+> Une chaine de caractères "String" encapsule un tableau de caractères qui sont accessibles via la fonction ***charAt(int index)***.
+
+​	b.2. Appeler la bonne fonction pour calculer le résultat à partir des OPERANDES et de l'OPERATEUR.
+
+​	b.3. Retourner le résultat et l'afficher dans la fonction main. 
 
 c. Faire des tests dans la fonction main en rentrant des inputs utilisateurs et qui teste chacun des opérateurs. 
