@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="201.98601mm"
+   height="155.40314mm"
+   viewBox="0 0 201.98601 155.40314"
+   version="1.1"
+   id="svg1325"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="operateurs_condition.svg">
+  <defs
+     id="defs1319">
+    <rect
+       x="-48.907463"
+       y="-26.99692"
+       width="282.09824"
+       height="206.97638"
+       id="rect2047" />
+    <clipPath
+       id="clip0">
+      <rect
+         x="417"
+         y="441"
+         width="1710"
+         height="938"
+         id="rect1888" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.67623457"
+     inkscape:cx="316.89292"
+     inkscape:cy="263.12307"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1322">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.3814747,-4.2349567)">
+    <g
+       id="g2086">
+      <path
+         d="m 4.8725511,12.526267 c 0,-4.5149569 3.6600846,-8.1750414 8.1750409,-8.1750414 h 32.699003 c 4.514957,0 8.175041,3.6600845 8.175041,8.1750414 V 45.22527 c 0,4.514956 -3.660084,8.175041 -8.175041,8.175041 H 13.047592 c -4.5149563,0 -8.1750409,-3.660085 -8.1750409,-8.175041 z"
+         fill="#f8b323"
+         fill-rule="evenodd"
+         id="path1893"
+         style="stroke-width:0.11623" />
+      <path
+         d="m 4.9112557,12.55207 c 0,-4.5078668 3.6542731,-8.1621398 8.1621393,-8.1621398 h 32.647397 c 4.507751,0 8.16214,3.654273 8.16214,8.1621398 v 32.647397 c 0,4.50775 -3.654389,8.162139 -8.16214,8.162139 H 13.073395 c -4.5078662,0 -8.1621393,-3.654389 -8.1621393,-8.162139 z"
+         stroke="#b68317"
+         stroke-width="0.309947"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         id="path1895" />
+      <text
+         fill="#ffffff"
+         font-family="'Gill Sans MT', 'Gill Sans MT_MSFontService', sans-serif"
+         font-weight="700"
+         font-size="34.2278px"
+         id="text1897"
+         x="9.2935247"
+         y="41.022732"
+         style="stroke-width:0.257352">==</text>
+      <path
+         d="m 79.60848,12.526267 c 0,-4.5149569 3.660084,-8.1750414 8.17446,-8.1750414 h 32.70016 c 4.51438,0 8.17447,3.6600845 8.17447,8.1750414 V 45.22527 c 0,4.514956 -3.66009,8.175041 -8.17447,8.175041 H 87.78294 c -4.514376,0 -8.17446,-3.660085 -8.17446,-8.175041 z"
+         fill="#f8b323"
+         fill-rule="evenodd"
+         id="path1899"
+         style="stroke-width:0.11623" />
+      <path
+         d="m 79.646836,12.55207 c 0,-4.5078668 3.654273,-8.1621398 8.162837,-8.1621398 h 32.646697 c 4.50857,0 8.16284,3.654273 8.16284,8.1621398 v 32.647397 c 0,4.50775 -3.65427,8.162139 -8.16284,8.162139 H 87.809673 c -4.508564,0 -8.162837,-3.654389 -8.162837,-8.162139 z"
+         stroke="#b68317"
+         stroke-width="0.309947"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         id="path1901" />
+      <path
+         d="m 154.22818,12.526267 c 0,-4.5149569 3.66008,-8.1750414 8.17446,-8.1750414 h 32.70016 c 4.51438,0 8.17446,3.6600845 8.17446,8.1750414 V 45.22527 c 0,4.514956 -3.66008,8.175041 -8.17446,8.175041 h -32.70016 c -4.51438,0 -8.17446,-3.660085 -8.17446,-8.175041 z"
+         fill="#f8b323"
+         fill-rule="evenodd"
+         id="path1905"
+         style="stroke-width:0.11623" />
+      <path
+         d="m 154.26653,12.55207 c 0,-4.5078668 3.65428,-8.1621398 8.16284,-8.1621398 h 32.6467 c 4.50856,0 8.16284,3.654273 8.16284,8.1621398 v 32.647397 c 0,4.50775 -3.65428,8.162139 -8.16284,8.162139 h -32.6467 c -4.50856,0 -8.16284,-3.654389 -8.16284,-8.162139 z"
+         stroke="#b68317"
+         stroke-width="0.309947"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         id="path1907" />
+      <text
+         fill="#ffffff"
+         font-family="'Gill Sans MT', 'Gill Sans MT_MSFontService', sans-serif"
+         font-weight="700"
+         font-size="34.3127px"
+         id="text1909"
+         x="158.59189"
+         y="41.089539"
+         style="stroke-width:0.25799">&lt;=</text>
+      <g
+         id="g1984"
+         transform="matrix(0.11623006,0,0,0.11623006,-43.769729,-26.343812)">
+        <path
+           d="m 418.5,1025.83 c 0,-38.84 31.49,-70.33 70.335,-70.33 h 281.33 c 38.845,0 70.335,31.49 70.335,70.33 v 281.34 c 0,38.84 -31.49,70.33 -70.335,70.33 h -281.33 c -38.845,0 -70.335,-31.49 -70.335,-70.33 z"
+           fill="#f8b323"
+           fill-rule="evenodd"
+           id="path1911" />
+        <path
+           d="m 418.833,1026.06 c 0,-38.786 31.44,-70.227 70.224,-70.227 h 280.886 c 38.783,0 70.224,31.441 70.224,70.227 v 280.88 c 0,38.79 -31.441,70.23 -70.224,70.23 H 489.057 c -38.784,0 -70.224,-31.44 -70.224,-70.23 z"
+           stroke="#b68317"
+           stroke-width="2.66667"
+           stroke-linejoin="round"
+           stroke-miterlimit="10"
+           fill="none"
+           fill-rule="evenodd"
+           id="path1913" />
+        <text
+           fill="#ffffff"
+           font-family="'Gill Sans MT', 'Gill Sans MT_MSFontService', sans-serif"
+           font-weight="700"
+           font-size="267.706px"
+           id="text1915"
+           x="513.79388"
+           y="1259.9436"
+           style="stroke-width:2.01283">!=</text>
+        <path
+           d="m 1061.5,1025.83 c 0,-38.84 31.49,-70.33 70.33,-70.33 h 281.34 c 38.84,0 70.33,31.49 70.33,70.33 v 281.34 c 0,38.84 -31.49,70.33 -70.33,70.33 h -281.34 c -38.84,0 -70.33,-31.49 -70.33,-70.33 z"
+           fill="#f8b323"
+           fill-rule="evenodd"
+           id="path1917" />
+        <path
+           d="m 1061.83,1026.06 c 0,-38.786 31.44,-70.227 70.23,-70.227 h 280.88 c 38.79,0 70.23,31.441 70.23,70.227 v 280.88 c 0,38.79 -31.44,70.23 -70.23,70.23 h -280.88 c -38.79,0 -70.23,-31.44 -70.23,-70.23 z"
+           stroke="#b68317"
+           stroke-width="2.66667"
+           stroke-linejoin="round"
+           stroke-miterlimit="10"
+           fill="none"
+           fill-rule="evenodd"
+           id="path1919" />
+        <text
+           fill="#ffffff"
+           font-family="'Gill Sans MT', 'Gill Sans MT_MSFontService', sans-serif"
+           font-weight="700"
+           font-size="293.145px"
+           id="text1921"
+           x="1188.8114"
+           y="1274.1646"
+           style="stroke-width:2.20409">&gt;</text>
+        <path
+           d="m 1703.5,1025.83 c 0,-38.84 31.49,-70.33 70.33,-70.33 h 281.34 c 38.84,0 70.33,31.49 70.33,70.33 v 281.34 c 0,38.84 -31.49,70.33 -70.33,70.33 h -281.34 c -38.84,0 -70.33,-31.49 -70.33,-70.33 z"
+           fill="#f8b323"
+           fill-rule="evenodd"
+           id="path1923" />
+        <path
+           d="m 1703.83,1026.06 c 0,-38.786 31.44,-70.227 70.23,-70.227 h 280.88 c 38.79,0 70.23,31.441 70.23,70.227 v 280.88 c 0,38.79 -31.44,70.23 -70.23,70.23 h -280.88 c -38.79,0 -70.23,-31.44 -70.23,-70.23 z"
+           stroke="#b68317"
+           stroke-width="2.66667"
+           stroke-linejoin="round"
+           stroke-miterlimit="10"
+           fill="none"
+           fill-rule="evenodd"
+           id="path1925" />
+        <text
+           fill="#ffffff"
+           font-family="'Gill Sans MT', 'Gill Sans MT_MSFontService', sans-serif"
+           font-weight="700"
+           font-size="294.727px"
+           id="text1927"
+           x="1754.6556"
+           y="1278.1432"
+           style="stroke-width:2.21599"
+           transform="scale(1.0000191,0.99998087)">&gt;=</text>
+      </g>
+      <text
+         fill="#ffffff"
+         font-family="'Gill Sans MT', 'Gill Sans MT_MSFontService', sans-serif"
+         font-weight="700"
+         font-size="34.2278px"
+         id="text1973"
+         x="94.12207"
+         y="41.022732"
+         style="stroke-width:0.257352">&lt;</text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.1845px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.348592"
+         x="26.985844"
+         y="64.769974"
+         id="text2007"><tspan
+           sodipodi:role="line"
+           id="tspan2005"
+           x="26.985844"
+           y="64.769974"
+           style="stroke-width:0.348592">Egal à</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.1845px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.348592"
+         x="103.67274"
+         y="64.769974"
+         id="text2011"><tspan
+           sodipodi:role="line"
+           id="tspan2009"
+           x="103.67274"
+           y="64.769974"
+           style="stroke-width:0.348592">Strictement</tspan><tspan
+           sodipodi:role="line"
+           x="103.67274"
+           y="75.000595"
+           style="stroke-width:0.348592"
+           id="tspan2013">inférieur à</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.1845px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.348592"
+         x="179.57712"
+         y="64.769974"
+         id="text2019"><tspan
+           sodipodi:role="line"
+           x="179.57712"
+           y="64.769974"
+           style="stroke-width:0.348592"
+           id="tspan2017">Inférieur ou</tspan><tspan
+           sodipodi:role="line"
+           x="179.57712"
+           y="75.000595"
+           style="stroke-width:0.348592"
+           id="tspan2023">égal à</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.1845px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.348592"
+         x="26.985844"
+         y="147.71703"
+         id="text2027"><tspan
+           sodipodi:role="line"
+           x="26.985844"
+           y="147.71703"
+           style="stroke-width:0.348592"
+           id="tspan2041">Différent de</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.1845px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.348592"
+         x="103.67274"
+         y="147.71703"
+         id="text2033"><tspan
+           sodipodi:role="line"
+           id="tspan2029"
+           x="103.67274"
+           y="147.71703"
+           style="stroke-width:0.348592">Strictement</tspan><tspan
+           sodipodi:role="line"
+           x="103.67274"
+           y="157.94765"
+           style="stroke-width:0.348592"
+           id="tspan2031">supérieur à</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.1845px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.348592"
+         x="179.57712"
+         y="147.71703"
+         id="text2039"><tspan
+           sodipodi:role="line"
+           x="179.57712"
+           y="147.71703"
+           style="stroke-width:0.348592"
+           id="tspan2035">Supérieur ou</tspan><tspan
+           sodipodi:role="line"
+           x="179.57712"
+           y="157.94765"
+           style="stroke-width:0.348592"
+           id="tspan2037">égal à</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       id="text2045"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.21206px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect2047);fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+</svg>
